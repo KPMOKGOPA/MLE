@@ -134,6 +134,4 @@ Feel free to fork this repository, make changes, and submit pull requests. All c
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.r import ml_model_evaluator
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
