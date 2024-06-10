@@ -136,18 +136,4 @@ Feel free to fork this repository, make changes, and submit pull requests. All c
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.r import ml_model_evaluator
 
-# Replace 'file_path' and 'target_column' with appropriate values
-file_path = "your_data.csv"
-target_column = "target_column_name"
-
-ml_model_evaluator(file_path, target_column)
-```
-
-
-## Contributing
-
-Feel free to fork this repository, make changes, and submit pull requests. All contributions are welcome!
-
-## License
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
